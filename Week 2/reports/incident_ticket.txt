@@ -1,0 +1,20 @@
+
+================ INCIDENT TICKET ================
+
+Title: [Critical] Ransomware Detected on Server-X
+
+Timestamp: 2026-05-17 06:37:45.001802
+
+Indicators:
+- File: crypto_locker.exe
+- IP: 192.168.1.50
+- MITRE: T1486
+
+Priority: Critical
+
+Actions:
+1. Isolate endpoint
+2. Collect evidence
+3. Block attacker IP
+
+=================================================

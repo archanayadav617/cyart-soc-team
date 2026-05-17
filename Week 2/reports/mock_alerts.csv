@@ -1,0 +1,4 @@
+Alert ID,Type,Priority,MITRE Technique,Description
+001,Phishing,High,T1566,Suspicious phishing email detected
+002,Brute-force SSH,Medium,T1110,Multiple failed SSH login attempts
+003,Log4Shell Exploit,Critical,T1190,Remote code execution attempt detected

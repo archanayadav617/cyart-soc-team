@@ -1,0 +1,4 @@
+
+Threat Intelligence Validation:
+IP checked using AlienVault OTX.
+No known malicious indicators found.
